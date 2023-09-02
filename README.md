@@ -1,4 +1,4 @@
-# Role of stress in Human-Robot interaction: robotic assisted surgery
+# Role of stress in Human-Robot interaction: Robotic Assisted Surgery
 
 Measure cognitive workload in interaction inside a simulated surgical scenario. 
 The goal of the project is the conceptual design and implementation of an intent
